@@ -29,3 +29,14 @@ cd neural-network-with-qiskit
 pip install -r requirements.txt
 python quantum_nn.py
 ```
+
+
+
+
+
+# Road Map / TODO List
+* create a small bert like model
+* make this modular
+* a quantum based language model
+* implement simple mechanics
+* Create a Giant TODO list 😝
