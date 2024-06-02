@@ -27,4 +27,5 @@ Clone the repository and install the dependencies using pip:
 git clone https://github.com/Meshwa428/neural-network-with-qiskit.git
 cd neural-network-with-qiskit
 pip install -r requirements.txt
+python quantum_nn.py
 ```
